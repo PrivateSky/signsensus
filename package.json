@@ -28,7 +28,7 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "main": "./lib/sign.js",
+  "main": "./lib/index.js",
   "licenses": [
     {
       "type": "LGPL",
